@@ -1,0 +1,1 @@
+# Natural-Disastres-Intesity-Analysis-and-Classification-AI
